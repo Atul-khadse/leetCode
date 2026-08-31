@@ -8,6 +8,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Atul-khadse/leetCode/tree/master/0200-number-of-islands) |
 | [0572-subtree-of-another-tree](https://github.com/Atul-khadse/leetCode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Atul-khadse/leetCode/tree/master/0118-pascals-triangle) |
+| [0200-number-of-islands](https://github.com/Atul-khadse/leetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Atul-khadse/leetCode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Atul-khadse/leetCode/tree/master/1046-last-stone-weight) |
 ## Dynamic Programming
@@ -50,9 +52,15 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Atul-khadse/leetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Atul-khadse/leetCode/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Atul-khadse/leetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Atul-khadse/leetCode/tree/master/0994-rotting-oranges) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Atul-khadse/leetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
