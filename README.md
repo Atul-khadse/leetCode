@@ -42,6 +42,7 @@
 | [0055-jump-game](https://github.com/Atul-khadse/leetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Atul-khadse/leetCode/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/Atul-khadse/leetCode/tree/master/0200-number-of-islands) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0994-rotting-oranges](https://github.com/Atul-khadse/leetCode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Atul-khadse/leetCode/tree/master/1046-last-stone-weight) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Atul-khadse/leetCode/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -101,4 +102,16 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Atul-khadse/leetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Atul-khadse/leetCode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Atul-khadse/leetCode/tree/master/0196-delete-duplicate-emails) |
+## Two Pointers
+|  |
+| ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+## Binary Search
+|  |
+| ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+## Sorting
+|  |
+| ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 <!---LeetCode Topics End-->
