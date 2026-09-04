@@ -56,6 +56,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Atul-khadse/leetCode/tree/master/0295-find-median-from-data-stream) |
 | [1046-last-stone-weight](https://github.com/Atul-khadse/leetCode/tree/master/1046-last-stone-weight) |
 ## Breadth-First Search
 |  |
@@ -105,6 +106,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Atul-khadse/leetCode/tree/master/0295-find-median-from-data-stream) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Binary Search
 |  |
@@ -113,5 +115,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Atul-khadse/leetCode/tree/master/0295-find-median-from-data-stream) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Atul-khadse/leetCode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Atul-khadse/leetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
