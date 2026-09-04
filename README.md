@@ -52,6 +52,7 @@
 | [0055-jump-game](https://github.com/Atul-khadse/leetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Atul-khadse/leetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Atul-khadse/leetCode/tree/master/0118-pascals-triangle) |
+| [0818-race-car](https://github.com/Atul-khadse/leetCode/tree/master/0818-race-car) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Atul-khadse/leetCode/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Heap (Priority Queue)
 |  |
@@ -125,4 +126,12 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Atul-khadse/leetCode/tree/master/0295-find-median-from-data-stream) |
+## Heuristic Search
+|  |
+| ------- |
+| [0818-race-car](https://github.com/Atul-khadse/leetCode/tree/master/0818-race-car) |
+## A* Search
+|  |
+| ------- |
+| [0818-race-car](https://github.com/Atul-khadse/leetCode/tree/master/0818-race-car) |
 <!---LeetCode Topics End-->
