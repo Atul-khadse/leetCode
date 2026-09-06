@@ -17,6 +17,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Atul-khadse/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0572-subtree-of-another-tree](https://github.com/Atul-khadse/leetCode/tree/master/0572-subtree-of-another-tree) |
 | [1108-defanging-an-ip-address](https://github.com/Atul-khadse/leetCode/tree/master/1108-defanging-an-ip-address) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Atul-khadse/leetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 ## Binary Tree
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Atul-khadse/leetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Atul-khadse/leetCode/tree/master/0062-unique-paths) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Atul-khadse/leetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Atul-khadse/leetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Recursion
 |  |
