@@ -50,6 +50,7 @@
 | [0066-plus-one](https://github.com/Atul-khadse/leetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Atul-khadse/leetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Atul-khadse/leetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Atul-khadse/leetCode/tree/master/0200-number-of-islands) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0994-rotting-oranges](https://github.com/Atul-khadse/leetCode/tree/master/0994-rotting-oranges) |
@@ -128,6 +129,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/Atul-khadse/leetCode/tree/master/0295-find-median-from-data-stream) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Design
@@ -157,6 +159,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Atul-khadse/leetCode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -167,4 +170,16 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Atul-khadse/leetCode/tree/master/0069-sqrtx) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
