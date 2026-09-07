@@ -36,6 +36,7 @@
 | [0002-add-two-numbers](https://github.com/Atul-khadse/leetCode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Atul-khadse/leetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Atul-khadse/leetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Atul-khadse/leetCode/tree/master/0069-sqrtx) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Atul-khadse/leetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Atul-khadse/leetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Recursion
@@ -121,6 +122,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Atul-khadse/leetCode/tree/master/0069-sqrtx) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Sorting
 |  |
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Atul-khadse/leetCode/tree/master/0191-number-of-1-bits) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Atul-khadse/leetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
