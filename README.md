@@ -66,6 +66,7 @@
 | [1046-last-stone-weight](https://github.com/Atul-khadse/leetCode/tree/master/1046-last-stone-weight) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Atul-khadse/leetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Atul-khadse/leetCode/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Atul-khadse/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,11 +90,13 @@
 | [0207-course-schedule](https://github.com/Atul-khadse/leetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Atul-khadse/leetCode/tree/master/0994-rotting-oranges) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Atul-khadse/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Atul-khadse/leetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Atul-khadse/leetCode/tree/master/0994-rotting-oranges) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Atul-khadse/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -180,6 +183,7 @@
 | [0136-single-number](https://github.com/Atul-khadse/leetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Atul-khadse/leetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Atul-khadse/leetCode/tree/master/0191-number-of-1-bits) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Atul-khadse/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Newton's Method
 |  |
 | ------- |
@@ -188,6 +192,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Atul-khadse/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting
 |  |
 | ------- |
