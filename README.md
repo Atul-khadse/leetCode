@@ -41,6 +41,7 @@
 | [0066-plus-one](https://github.com/Atul-khadse/leetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Atul-khadse/leetCode/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/Atul-khadse/leetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Atul-khadse/leetCode/tree/master/0877-stone-game) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Atul-khadse/leetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Atul-khadse/leetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Recursion
@@ -60,6 +61,7 @@
 | [0228-summary-ranges](https://github.com/Atul-khadse/leetCode/tree/master/0228-summary-ranges) |
 | [0486-predict-the-winner](https://github.com/Atul-khadse/leetCode/tree/master/0486-predict-the-winner) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0877-stone-game](https://github.com/Atul-khadse/leetCode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Atul-khadse/leetCode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Atul-khadse/leetCode/tree/master/1046-last-stone-weight) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Atul-khadse/leetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -73,6 +75,7 @@
 | [0118-pascals-triangle](https://github.com/Atul-khadse/leetCode/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/Atul-khadse/leetCode/tree/master/0486-predict-the-winner) |
 | [0818-race-car](https://github.com/Atul-khadse/leetCode/tree/master/0818-race-car) |
+| [0877-stone-game](https://github.com/Atul-khadse/leetCode/tree/master/0877-stone-game) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Atul-khadse/leetCode/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Heap (Priority Queue)
 |  |
@@ -197,12 +200,15 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Atul-khadse/leetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Atul-khadse/leetCode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Atul-khadse/leetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Atul-khadse/leetCode/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Atul-khadse/leetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Atul-khadse/leetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
