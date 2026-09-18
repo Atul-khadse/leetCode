@@ -40,6 +40,7 @@
 | [0062-unique-paths](https://github.com/Atul-khadse/leetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Atul-khadse/leetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Atul-khadse/leetCode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Atul-khadse/leetCode/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/Atul-khadse/leetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Atul-khadse/leetCode/tree/master/0877-stone-game) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Atul-khadse/leetCode/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Atul-khadse/leetCode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Atul-khadse/leetCode/tree/master/0367-valid-perfect-square) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Sorting
 |  |
