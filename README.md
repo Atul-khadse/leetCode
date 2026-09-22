@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Atul-khadse/leetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Atul-khadse/leetCode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Atul-khadse/leetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Atul-khadse/leetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Atul-khadse/leetCode/tree/master/0069-sqrtx) |
