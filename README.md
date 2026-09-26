@@ -28,6 +28,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Atul-khadse/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0127-word-ladder](https://github.com/Atul-khadse/leetCode/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/Atul-khadse/leetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0572-subtree-of-another-tree](https://github.com/Atul-khadse/leetCode/tree/master/0572-subtree-of-another-tree) |
 | [1108-defanging-an-ip-address](https://github.com/Atul-khadse/leetCode/tree/master/1108-defanging-an-ip-address) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Atul-khadse/leetCode/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -116,6 +117,7 @@
 | [0200-number-of-islands](https://github.com/Atul-khadse/leetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Atul-khadse/leetCode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Atul-khadse/leetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0994-rotting-oranges](https://github.com/Atul-khadse/leetCode/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Atul-khadse/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -251,4 +253,8 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Atul-khadse/leetCode/tree/master/0127-word-ladder) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Atul-khadse/leetCode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
