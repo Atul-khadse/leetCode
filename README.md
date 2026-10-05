@@ -56,6 +56,7 @@
 | [0002-add-two-numbers](https://github.com/Atul-khadse/leetCode/tree/master/0002-add-two-numbers) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Atul-khadse/leetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Atul-khadse/leetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Atul-khadse/leetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
