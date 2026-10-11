@@ -99,6 +99,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/Atul-khadse/leetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Atul-khadse/leetCode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Atul-khadse/leetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Atul-khadse/leetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Atul-khadse/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
@@ -297,4 +298,8 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Atul-khadse/leetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Atul-khadse/leetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
