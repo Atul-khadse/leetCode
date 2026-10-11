@@ -92,6 +92,7 @@
 | [0228-summary-ranges](https://github.com/Atul-khadse/leetCode/tree/master/0228-summary-ranges) |
 | [0303-range-sum-query-immutable](https://github.com/Atul-khadse/leetCode/tree/master/0303-range-sum-query-immutable) |
 | [0486-predict-the-winner](https://github.com/Atul-khadse/leetCode/tree/master/0486-predict-the-winner) |
+| [0605-can-place-flowers](https://github.com/Atul-khadse/leetCode/tree/master/0605-can-place-flowers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0877-stone-game](https://github.com/Atul-khadse/leetCode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Atul-khadse/leetCode/tree/master/0994-rotting-oranges) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Atul-khadse/leetCode/tree/master/0055-jump-game) |
+| [0605-can-place-flowers](https://github.com/Atul-khadse/leetCode/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Atul-khadse/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atul-khadse/leetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Combinatorics
