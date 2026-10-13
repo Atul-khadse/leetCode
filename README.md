@@ -104,6 +104,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Atul-khadse/leetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atul-khadse/leetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Atul-khadse/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Atul-khadse/leetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Atul-khadse/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atul-khadse/leetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atul-khadse/leetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Atul-khadse/leetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Combinatorics
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/Atul-khadse/leetCode/tree/master/0295-find-median-from-data-stream) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Atul-khadse/leetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Design
 |  |
 | ------- |
