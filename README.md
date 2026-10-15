@@ -104,6 +104,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Atul-khadse/leetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Atul-khadse/leetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atul-khadse/leetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atul-khadse/leetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Atul-khadse/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Atul-khadse/leetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
@@ -269,6 +270,7 @@
 | [0133-clone-graph](https://github.com/Atul-khadse/leetCode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atul-khadse/leetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atul-khadse/leetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Atul-khadse/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting
 |  |
@@ -314,4 +316,12 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Atul-khadse/leetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atul-khadse/leetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atul-khadse/leetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
