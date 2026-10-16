@@ -93,6 +93,7 @@
 | [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Atul-khadse/leetCode/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/Atul-khadse/leetCode/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/Atul-khadse/leetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Atul-khadse/leetCode/tree/master/0303-range-sum-query-immutable) |
 | [0486-predict-the-winner](https://github.com/Atul-khadse/leetCode/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/Atul-khadse/leetCode/tree/master/0605-can-place-flowers) |
@@ -171,6 +172,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Atul-khadse/leetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Atul-khadse/leetCode/tree/master/0303-range-sum-query-immutable) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Atul-khadse/leetCode/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Greedy
