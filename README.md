@@ -30,6 +30,7 @@
 | [0022-generate-parentheses](https://github.com/Atul-khadse/leetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Atul-khadse/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0127-word-ladder](https://github.com/Atul-khadse/leetCode/tree/master/0127-word-ladder) |
+| [0151-reverse-words-in-a-string](https://github.com/Atul-khadse/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/Atul-khadse/leetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Atul-khadse/leetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Atul-khadse/leetCode/tree/master/0572-subtree-of-another-tree) |
@@ -195,6 +196,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Atul-khadse/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Atul-khadse/leetCode/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Atul-khadse/leetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
