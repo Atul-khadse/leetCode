@@ -107,6 +107,7 @@
 | [0994-rotting-oranges](https://github.com/Atul-khadse/leetCode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Atul-khadse/leetCode/tree/master/1046-last-stone-weight) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Atul-khadse/leetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Atul-khadse/leetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Atul-khadse/leetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atul-khadse/leetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Atul-khadse/leetCode/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -215,6 +216,7 @@
 | [0392-is-subsequence](https://github.com/Atul-khadse/leetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Atul-khadse/leetCode/tree/master/0443-string-compression) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Atul-khadse/leetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Atul-khadse/leetCode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -229,6 +231,7 @@
 | [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/Atul-khadse/leetCode/tree/master/0295-find-median-from-data-stream) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Atul-khadse/leetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atul-khadse/leetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Atul-khadse/leetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Design
@@ -291,6 +294,7 @@
 | [0127-word-ladder](https://github.com/Atul-khadse/leetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Atul-khadse/leetCode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Atul-khadse/leetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atul-khadse/leetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atul-khadse/leetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Atul-khadse/leetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
