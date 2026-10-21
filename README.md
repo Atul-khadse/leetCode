@@ -45,6 +45,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Atul-khadse/leetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Atul-khadse/leetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1768-merge-strings-alternately](https://github.com/Atul-khadse/leetCode/tree/master/1768-merge-strings-alternately) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Atul-khadse/leetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Binary Tree
 |  |
 | ------- |
