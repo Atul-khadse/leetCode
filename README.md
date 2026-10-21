@@ -111,6 +111,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Atul-khadse/leetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Atul-khadse/leetCode/tree/master/1046-last-stone-weight) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Atul-khadse/leetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Atul-khadse/leetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Atul-khadse/leetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Atul-khadse/leetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atul-khadse/leetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -135,6 +136,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Atul-khadse/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0818-race-car](https://github.com/Atul-khadse/leetCode/tree/master/0818-race-car) |
 | [0877-stone-game](https://github.com/Atul-khadse/leetCode/tree/master/0877-stone-game) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Atul-khadse/leetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Atul-khadse/leetCode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Atul-khadse/leetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Heap (Priority Queue)
@@ -369,4 +371,5 @@
 | [0643-maximum-average-subarray-i](https://github.com/Atul-khadse/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Atul-khadse/leetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Atul-khadse/leetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Atul-khadse/leetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
