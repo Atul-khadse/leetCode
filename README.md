@@ -110,6 +110,7 @@
 | [0605-can-place-flowers](https://github.com/Atul-khadse/leetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Atul-khadse/leetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0724-find-pivot-index](https://github.com/Atul-khadse/leetCode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Atul-khadse/leetCode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Atul-khadse/leetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Atul-khadse/leetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -201,6 +202,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Atul-khadse/leetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Atul-khadse/leetCode/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Atul-khadse/leetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Atul-khadse/leetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Atul-khadse/leetCode/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Greedy
