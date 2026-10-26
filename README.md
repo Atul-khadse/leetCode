@@ -6,6 +6,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Atul-khadse/leetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Atul-khadse/leetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0112-path-sum](https://github.com/Atul-khadse/leetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Atul-khadse/leetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Atul-khadse/leetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Atul-khadse/leetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Atul-khadse/leetCode/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/Atul-khadse/leetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Atul-khadse/leetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Atul-khadse/leetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0133-clone-graph](https://github.com/Atul-khadse/leetCode/tree/master/0133-clone-graph) |
@@ -54,6 +56,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Atul-khadse/leetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Atul-khadse/leetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0112-path-sum](https://github.com/Atul-khadse/leetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Atul-khadse/leetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Atul-khadse/leetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Atul-khadse/leetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -157,6 +160,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Atul-khadse/leetCode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Atul-khadse/leetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0112-path-sum](https://github.com/Atul-khadse/leetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Atul-khadse/leetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Atul-khadse/leetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/Atul-khadse/leetCode/tree/master/0127-word-ladder) |
