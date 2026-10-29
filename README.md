@@ -14,6 +14,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Atul-khadse/leetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Atul-khadse/leetCode/tree/master/0572-subtree-of-another-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Atul-khadse/leetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Atul-khadse/leetCode/tree/master/0572-subtree-of-another-tree) |
 | [1254-number-of-closed-islands](https://github.com/Atul-khadse/leetCode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Atul-khadse/leetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Atul-khadse/leetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [1513-number-of-substrings-with-only-1s](https://github.com/Atul-khadse/leetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1768-merge-strings-alternately](https://github.com/Atul-khadse/leetCode/tree/master/1768-merge-strings-alternately) |
 | [2409-count-days-spent-together](https://github.com/Atul-khadse/leetCode/tree/master/2409-count-days-spent-together) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Atul-khadse/leetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Atul-khadse/leetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Binary Tree
 |  |
@@ -140,6 +143,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Atul-khadse/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Atul-khadse/leetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Atul-khadse/leetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Atul-khadse/leetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Atul-khadse/leetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Atul-khadse/leetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
@@ -317,6 +321,7 @@
 | [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Atul-khadse/leetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Atul-khadse/leetCode/tree/master/0191-number-of-1-bits) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Atul-khadse/leetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -325,6 +330,7 @@
 | [0191-number-of-1-bits](https://github.com/Atul-khadse/leetCode/tree/master/0191-number-of-1-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atul-khadse/leetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Atul-khadse/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Atul-khadse/leetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Atul-khadse/leetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Newton's Method
 |  |
@@ -390,11 +396,13 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atul-khadse/leetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Atul-khadse/leetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Atul-khadse/leetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Atul-khadse/leetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Atul-khadse/leetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Atul-khadse/leetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
