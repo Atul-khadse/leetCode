@@ -143,6 +143,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Atul-khadse/leetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Atul-khadse/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Atul-khadse/leetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Atul-khadse/leetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Atul-khadse/leetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Atul-khadse/leetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Atul-khadse/leetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -163,6 +164,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Atul-khadse/leetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Atul-khadse/leetCode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Atul-khadse/leetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3665-twisted-mirror-path-count](https://github.com/Atul-khadse/leetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Atul-khadse/leetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -201,6 +203,7 @@
 | [1254-number-of-closed-islands](https://github.com/Atul-khadse/leetCode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Atul-khadse/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Atul-khadse/leetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Atul-khadse/leetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Atul-khadse/leetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Union-Find
 |  |
