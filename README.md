@@ -15,6 +15,7 @@
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Atul-khadse/leetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Atul-khadse/leetCode/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Atul-khadse/leetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -33,6 +34,7 @@
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Atul-khadse/leetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Atul-khadse/leetCode/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Atul-khadse/leetCode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Atul-khadse/leetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Atul-khadse/leetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -75,6 +77,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Atul-khadse/leetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Atul-khadse/leetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Atul-khadse/leetCode/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
@@ -198,6 +201,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Atul-khadse/leetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Atul-khadse/leetCode/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Atul-khadse/leetCode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Atul-khadse/leetCode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Atul-khadse/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
