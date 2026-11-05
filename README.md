@@ -146,6 +146,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Atul-khadse/leetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Atul-khadse/leetCode/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/Atul-khadse/leetCode/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Atul-khadse/leetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Atul-khadse/leetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Atul-khadse/leetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Atul-khadse/leetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -289,6 +290,7 @@
 | [0443-string-compression](https://github.com/Atul-khadse/leetCode/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Atul-khadse/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Atul-khadse/leetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Atul-khadse/leetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Atul-khadse/leetCode/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
@@ -298,6 +300,7 @@
 | [0367-valid-perfect-square](https://github.com/Atul-khadse/leetCode/tree/master/0367-valid-perfect-square) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1004-max-consecutive-ones-iii](https://github.com/Atul-khadse/leetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Atul-khadse/leetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atul-khadse/leetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
@@ -306,6 +309,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Atul-khadse/leetCode/tree/master/0295-find-median-from-data-stream) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Atul-khadse/leetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Atul-khadse/leetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Atul-khadse/leetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atul-khadse/leetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Atul-khadse/leetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
