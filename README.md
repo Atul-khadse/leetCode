@@ -18,6 +18,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Atul-khadse/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0993-cousins-in-binary-tree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Atul-khadse/leetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -40,6 +41,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Atul-khadse/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Atul-khadse/leetCode/tree/master/0733-flood-fill) |
 | [0965-univalued-binary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Atul-khadse/leetCode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Atul-khadse/leetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Atul-khadse/leetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -85,6 +87,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Atul-khadse/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Hash Function
 |  |
 | ------- |
@@ -219,6 +222,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Atul-khadse/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Atul-khadse/leetCode/tree/master/0733-flood-fill) |
 | [0965-univalued-binary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0965-univalued-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Atul-khadse/leetCode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Atul-khadse/leetCode/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Atul-khadse/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
