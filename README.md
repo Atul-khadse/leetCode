@@ -151,6 +151,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Atul-khadse/leetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Atul-khadse/leetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Atul-khadse/leetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/Atul-khadse/leetCode/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atul-khadse/leetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Atul-khadse/leetCode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2747-count-zero-request-servers](https://github.com/Atul-khadse/leetCode/tree/master/2747-count-zero-request-servers) |
@@ -190,6 +191,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Atul-khadse/leetCode/tree/master/0295-find-median-from-data-stream) |
 | [1046-last-stone-weight](https://github.com/Atul-khadse/leetCode/tree/master/1046-last-stone-weight) |
+| [1882-process-tasks-using-servers](https://github.com/Atul-khadse/leetCode/tree/master/1882-process-tasks-using-servers) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Atul-khadse/leetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Breadth-First Search
 |  |
