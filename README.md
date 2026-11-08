@@ -128,6 +128,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Atul-khadse/leetCode/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/Atul-khadse/leetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Atul-khadse/leetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Atul-khadse/leetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Atul-khadse/leetCode/tree/master/0118-pascals-triangle) |
@@ -181,6 +182,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Atul-khadse/leetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Atul-khadse/leetCode/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Atul-khadse/leetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Atul-khadse/leetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Atul-khadse/leetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Atul-khadse/leetCode/tree/master/0118-pascals-triangle) |
@@ -369,6 +371,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Atul-khadse/leetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Atul-khadse/leetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Atul-khadse/leetCode/tree/master/0191-number-of-1-bits) |
