@@ -43,6 +43,7 @@
 | [0965-univalued-binary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Atul-khadse/leetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Atul-khadse/leetCode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Atul-khadse/leetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Atul-khadse/leetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String Matching
@@ -152,6 +153,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Atul-khadse/leetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Atul-khadse/leetCode/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/Atul-khadse/leetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Atul-khadse/leetCode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Atul-khadse/leetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Atul-khadse/leetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Atul-khadse/leetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -225,6 +227,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/Atul-khadse/leetCode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Atul-khadse/leetCode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Atul-khadse/leetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Atul-khadse/leetCode/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Atul-khadse/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Atul-khadse/leetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -235,6 +238,7 @@
 | [0733-flood-fill](https://github.com/Atul-khadse/leetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Atul-khadse/leetCode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Atul-khadse/leetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Atul-khadse/leetCode/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Atul-khadse/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Atul-khadse/leetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Atul-khadse/leetCode/tree/master/3665-twisted-mirror-path-count) |
@@ -244,6 +248,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Atul-khadse/leetCode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Atul-khadse/leetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Atul-khadse/leetCode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Atul-khadse/leetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -399,6 +404,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/Atul-khadse/leetCode/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
