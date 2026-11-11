@@ -145,6 +145,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Atul-khadse/leetCode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Atul-khadse/leetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Atul-khadse/leetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0455-assign-cookies](https://github.com/Atul-khadse/leetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Atul-khadse/leetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Atul-khadse/leetCode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Atul-khadse/leetCode/tree/master/0486-predict-the-winner) |
@@ -292,6 +293,7 @@
 | [0011-container-with-most-water](https://github.com/Atul-khadse/leetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Atul-khadse/leetCode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/Atul-khadse/leetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0455-assign-cookies](https://github.com/Atul-khadse/leetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Atul-khadse/leetCode/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Atul-khadse/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atul-khadse/leetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -319,6 +321,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Atul-khadse/leetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Atul-khadse/leetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Atul-khadse/leetCode/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/Atul-khadse/leetCode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Atul-khadse/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Atul-khadse/leetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -338,6 +341,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/Atul-khadse/leetCode/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/Atul-khadse/leetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Atul-khadse/leetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Atul-khadse/leetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -494,4 +498,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Atul-khadse/leetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Atul-khadse/leetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
