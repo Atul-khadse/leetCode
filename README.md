@@ -27,6 +27,7 @@
 | [0112-path-sum](https://github.com/Atul-khadse/leetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Atul-khadse/leetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Atul-khadse/leetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/Atul-khadse/leetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Atul-khadse/leetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Atul-khadse/leetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Atul-khadse/leetCode/tree/master/0200-number-of-islands) |
@@ -134,6 +135,7 @@
 | [0055-jump-game](https://github.com/Atul-khadse/leetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Atul-khadse/leetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Atul-khadse/leetCode/tree/master/0118-pascals-triangle) |
+| [0130-surrounded-regions](https://github.com/Atul-khadse/leetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Atul-khadse/leetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Atul-khadse/leetCode/tree/master/0200-number-of-islands) |
@@ -216,6 +218,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Atul-khadse/leetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Atul-khadse/leetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/Atul-khadse/leetCode/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/Atul-khadse/leetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Atul-khadse/leetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Atul-khadse/leetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Atul-khadse/leetCode/tree/master/0200-number-of-islands) |
@@ -240,6 +243,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Atul-khadse/leetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Atul-khadse/leetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Atul-khadse/leetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Atul-khadse/leetCode/tree/master/0733-flood-fill) |
@@ -253,6 +257,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Atul-khadse/leetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Atul-khadse/leetCode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/Atul-khadse/leetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Atul-khadse/leetCode/tree/master/1267-count-servers-that-communicate) |
