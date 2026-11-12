@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Atul-khadse/leetCode/tree/master/0002-add-two-numbers) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Atul-khadse/leetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Atul-khadse/leetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Atul-khadse/leetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Atul-khadse/leetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -322,6 +323,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Atul-khadse/leetCode/tree/master/0011-container-with-most-water) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Atul-khadse/leetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Atul-khadse/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Atul-khadse/leetCode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Atul-khadse/leetCode/tree/master/0295-find-median-from-data-stream) |
