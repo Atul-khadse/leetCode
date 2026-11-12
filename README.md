@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Atul-khadse/leetCode/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/Atul-khadse/leetCode/tree/master/0705-design-hashset) |
 ## Linked List
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Atul-khadse/leetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Atul-khadse/leetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Atul-khadse/leetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/Atul-khadse/leetCode/tree/master/0705-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | [0486-predict-the-winner](https://github.com/Atul-khadse/leetCode/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/Atul-khadse/leetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Atul-khadse/leetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0705-design-hashset](https://github.com/Atul-khadse/leetCode/tree/master/0705-design-hashset) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/Atul-khadse/leetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Atul-khadse/leetCode/tree/master/0733-flood-fill) |
@@ -355,6 +358,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Atul-khadse/leetCode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Atul-khadse/leetCode/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/Atul-khadse/leetCode/tree/master/0705-design-hashset) |
 ## Data Stream
 |  |
 | ------- |
@@ -415,6 +419,7 @@
 | [0133-clone-graph](https://github.com/Atul-khadse/leetCode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Atul-khadse/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0705-design-hashset](https://github.com/Atul-khadse/leetCode/tree/master/0705-design-hashset) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Atul-khadse/leetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2747-count-zero-request-servers](https://github.com/Atul-khadse/leetCode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atul-khadse/leetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
