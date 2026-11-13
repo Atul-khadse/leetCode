@@ -1,29 +1,23 @@
 class Solution {
     public int findLHS(int[] nums) {
-        Arrays.sort(nums);
-
-        int left=0;
-        int maxL=0;
-
-            for(int right=0; right < nums.length; right++){
-
-
-                while(nums[right] - nums[left] > 1){
-                    left++;
-                }
-
-
-
-                if(nums[right] - nums[left] == 1){
-                    maxL = Math.max(maxL, right-left+1);
-                }
-
-
-
+       HashMap<Integer, Integer> map = new HashMap<>();
+        
+        // Step 1: Har number ki frequency count karo
+        for (int num : nums) {
+            map.put(num, map.getOrDefault(num, 0) + 1);
+        }
+        
+        int maxLength = 0;
+        
+        // Step 2: Har unique number ke liye check karo ki kya (num + 1) exist karta hai
+        for (int num : map.keySet()) {
+            if (map.containsKey(num + 1)) {
+                int currentLength = map.get(num) + map.get(num + 1);
+                maxLength = Math.max(maxLength, currentLength);
             }
-
-
-            return maxL;
+        }
+        
+        return maxLength;
 
         
     }
