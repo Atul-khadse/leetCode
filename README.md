@@ -171,6 +171,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Atul-khadse/leetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Atul-khadse/leetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Atul-khadse/leetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1652-defuse-the-bomb](https://github.com/Atul-khadse/leetCode/tree/master/1652-defuse-the-bomb) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Atul-khadse/leetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Atul-khadse/leetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1882-process-tasks-using-servers](https://github.com/Atul-khadse/leetCode/tree/master/1882-process-tasks-using-servers) |
@@ -509,6 +510,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Atul-khadse/leetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Atul-khadse/leetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Atul-khadse/leetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1652-defuse-the-bomb](https://github.com/Atul-khadse/leetCode/tree/master/1652-defuse-the-bomb) |
 | [2747-count-zero-request-servers](https://github.com/Atul-khadse/leetCode/tree/master/2747-count-zero-request-servers) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Atul-khadse/leetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search Tree
