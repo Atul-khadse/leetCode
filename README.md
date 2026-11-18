@@ -70,6 +70,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Atul-khadse/leetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Atul-khadse/leetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1768-merge-strings-alternately](https://github.com/Atul-khadse/leetCode/tree/master/1768-merge-strings-alternately) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Atul-khadse/leetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Atul-khadse/leetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Atul-khadse/leetCode/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Atul-khadse/leetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -180,6 +181,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Atul-khadse/leetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Atul-khadse/leetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1882-process-tasks-using-servers](https://github.com/Atul-khadse/leetCode/tree/master/1882-process-tasks-using-servers) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Atul-khadse/leetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atul-khadse/leetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Atul-khadse/leetCode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2747-count-zero-request-servers](https://github.com/Atul-khadse/leetCode/tree/master/2747-count-zero-request-servers) |
@@ -227,6 +229,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Atul-khadse/leetCode/tree/master/0295-find-median-from-data-stream) |
 | [1046-last-stone-weight](https://github.com/Atul-khadse/leetCode/tree/master/1046-last-stone-weight) |
 | [1882-process-tasks-using-servers](https://github.com/Atul-khadse/leetCode/tree/master/1882-process-tasks-using-servers) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Atul-khadse/leetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Atul-khadse/leetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Breadth-First Search
 |  |
@@ -368,6 +371,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Atul-khadse/leetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Atul-khadse/leetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Atul-khadse/leetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atul-khadse/leetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/Atul-khadse/leetCode/tree/master/2747-count-zero-request-servers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Atul-khadse/leetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -417,6 +421,7 @@
 | [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Atul-khadse/leetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Atul-khadse/leetCode/tree/master/0191-number-of-1-bits) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Atul-khadse/leetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Atul-khadse/leetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Bit Manipulation
 |  |
@@ -551,4 +556,8 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Atul-khadse/leetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Atul-khadse/leetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
