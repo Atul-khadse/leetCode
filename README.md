@@ -163,6 +163,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Atul-khadse/leetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Atul-khadse/leetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Atul-khadse/leetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Atul-khadse/leetCode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Atul-khadse/leetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Atul-khadse/leetCode/tree/master/0706-design-hashmap) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -357,6 +358,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Atul-khadse/leetCode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Atul-khadse/leetCode/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/Atul-khadse/leetCode/tree/master/0704-binary-search) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Atul-khadse/leetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1004-max-consecutive-ones-iii](https://github.com/Atul-khadse/leetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Atul-khadse/leetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
