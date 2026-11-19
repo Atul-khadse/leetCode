@@ -72,6 +72,7 @@
 | [1768-merge-strings-alternately](https://github.com/Atul-khadse/leetCode/tree/master/1768-merge-strings-alternately) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Atul-khadse/leetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Atul-khadse/leetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Atul-khadse/leetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2409-count-days-spent-together](https://github.com/Atul-khadse/leetCode/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Atul-khadse/leetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Atul-khadse/leetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -328,6 +329,7 @@
 | [0605-can-place-flowers](https://github.com/Atul-khadse/leetCode/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Atul-khadse/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Atul-khadse/leetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Atul-khadse/leetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Atul-khadse/leetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atul-khadse/leetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Atul-khadse/leetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -512,6 +514,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Atul-khadse/leetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Atul-khadse/leetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Indexed Tree
 |  |
