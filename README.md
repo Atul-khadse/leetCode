@@ -121,6 +121,7 @@
 | [0066-plus-one](https://github.com/Atul-khadse/leetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Atul-khadse/leetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Atul-khadse/leetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Atul-khadse/leetCode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Atul-khadse/leetCode/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Atul-khadse/leetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Atul-khadse/leetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Atul-khadse/leetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Atul-khadse/leetCode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Atul-khadse/leetCode/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
@@ -440,6 +442,7 @@
 | [0136-single-number](https://github.com/Atul-khadse/leetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Atul-khadse/leetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Atul-khadse/leetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Atul-khadse/leetCode/tree/master/0231-power-of-two) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atul-khadse/leetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Atul-khadse/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Atul-khadse/leetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
