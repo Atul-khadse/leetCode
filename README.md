@@ -55,6 +55,7 @@
 | [0022-generate-parentheses](https://github.com/Atul-khadse/leetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Atul-khadse/leetCode/tree/master/0032-longest-valid-parentheses) |
 | [0127-word-ladder](https://github.com/Atul-khadse/leetCode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Atul-khadse/leetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Atul-khadse/leetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/Atul-khadse/leetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Atul-khadse/leetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -152,6 +153,7 @@
 | [0118-pascals-triangle](https://github.com/Atul-khadse/leetCode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/Atul-khadse/leetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Atul-khadse/leetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Atul-khadse/leetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Atul-khadse/leetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Atul-khadse/leetCode/tree/master/0200-number-of-islands) |
@@ -221,6 +223,7 @@
 | [0055-jump-game](https://github.com/Atul-khadse/leetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Atul-khadse/leetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Atul-khadse/leetCode/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/Atul-khadse/leetCode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Atul-khadse/leetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Atul-khadse/leetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Atul-khadse/leetCode/tree/master/0486-predict-the-winner) |
@@ -464,6 +467,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/Atul-khadse/leetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Atul-khadse/leetCode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Atul-khadse/leetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Atul-khadse/leetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Atul-khadse/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -585,4 +589,16 @@
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Atul-khadse/leetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Atul-khadse/leetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Atul-khadse/leetCode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Atul-khadse/leetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
