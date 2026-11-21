@@ -71,6 +71,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Atul-khadse/leetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Atul-khadse/leetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/Atul-khadse/leetCode/tree/master/1108-defanging-an-ip-address) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Atul-khadse/leetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Atul-khadse/leetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Atul-khadse/leetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1768-merge-strings-alternately](https://github.com/Atul-khadse/leetCode/tree/master/1768-merge-strings-alternately) |
@@ -237,6 +238,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Atul-khadse/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0818-race-car](https://github.com/Atul-khadse/leetCode/tree/master/0818-race-car) |
 | [0877-stone-game](https://github.com/Atul-khadse/leetCode/tree/master/0877-stone-game) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Atul-khadse/leetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Atul-khadse/leetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Atul-khadse/leetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Atul-khadse/leetCode/tree/master/2100-find-good-days-to-rob-the-bank) |
