@@ -166,6 +166,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Atul-khadse/leetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Atul-khadse/leetCode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Atul-khadse/leetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Atul-khadse/leetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Atul-khadse/leetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Atul-khadse/leetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Atul-khadse/leetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -458,6 +459,7 @@
 | [0190-reverse-bits](https://github.com/Atul-khadse/leetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Atul-khadse/leetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Atul-khadse/leetCode/tree/master/0231-power-of-two) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Atul-khadse/leetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Atul-khadse/leetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Atul-khadse/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Atul-khadse/leetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -473,6 +475,7 @@
 | [0133-clone-graph](https://github.com/Atul-khadse/leetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Atul-khadse/leetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Atul-khadse/leetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Atul-khadse/leetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Atul-khadse/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/Atul-khadse/leetCode/tree/master/0705-design-hashset) |
@@ -598,6 +601,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Atul-khadse/leetCode/tree/master/0139-word-break) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Atul-khadse/leetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Memoization
 |  |
 | ------- |
