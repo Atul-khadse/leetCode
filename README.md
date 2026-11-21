@@ -56,6 +56,7 @@
 | [0020-valid-parentheses](https://github.com/Atul-khadse/leetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Atul-khadse/leetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Atul-khadse/leetCode/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Atul-khadse/leetCode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Atul-khadse/leetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Atul-khadse/leetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Atul-khadse/leetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -227,6 +228,7 @@
 | [0053-maximum-subarray](https://github.com/Atul-khadse/leetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Atul-khadse/leetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Atul-khadse/leetCode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/Atul-khadse/leetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Atul-khadse/leetCode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/Atul-khadse/leetCode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Atul-khadse/leetCode/tree/master/0300-longest-increasing-subsequence) |
