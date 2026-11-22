@@ -128,6 +128,7 @@
 | [0062-unique-paths](https://github.com/Atul-khadse/leetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Atul-khadse/leetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Atul-khadse/leetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Atul-khadse/leetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Atul-khadse/leetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Atul-khadse/leetCode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Atul-khadse/leetCode/tree/master/0367-valid-perfect-square) |
@@ -230,6 +231,7 @@
 | [0053-maximum-subarray](https://github.com/Atul-khadse/leetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Atul-khadse/leetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Atul-khadse/leetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Atul-khadse/leetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Atul-khadse/leetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Atul-khadse/leetCode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/Atul-khadse/leetCode/tree/master/0139-word-break) |
@@ -610,6 +612,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Atul-khadse/leetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Atul-khadse/leetCode/tree/master/0139-word-break) |
 ## Brute-Force Search
 |  |
