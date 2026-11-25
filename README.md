@@ -111,6 +111,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Atul-khadse/leetCode/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/Atul-khadse/leetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Atul-khadse/leetCode/tree/master/0706-design-hashmap) |
+| [3934-smallest-unique-subarray](https://github.com/Atul-khadse/leetCode/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -227,6 +228,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Atul-khadse/leetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Atul-khadse/leetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Atul-khadse/leetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3934-smallest-unique-subarray](https://github.com/Atul-khadse/leetCode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Atul-khadse/leetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
@@ -400,6 +402,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Atul-khadse/leetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Atul-khadse/leetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Atul-khadse/leetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3934-smallest-unique-subarray](https://github.com/Atul-khadse/leetCode/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -503,6 +506,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Atul-khadse/leetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Atul-khadse/leetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Atul-khadse/leetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3934-smallest-unique-subarray](https://github.com/Atul-khadse/leetCode/tree/master/3934-smallest-unique-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -633,4 +637,12 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Atul-khadse/leetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Atul-khadse/leetCode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Atul-khadse/leetCode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
