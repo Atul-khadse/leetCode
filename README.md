@@ -144,6 +144,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Atul-khadse/leetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Atul-khadse/leetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2409-count-days-spent-together](https://github.com/Atul-khadse/leetCode/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/Atul-khadse/leetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Atul-khadse/leetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Atul-khadse/leetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Atul-khadse/leetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -614,6 +615,7 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Atul-khadse/leetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Atul-khadse/leetCode/tree/master/3360-stone-removal-game) |
 | [3813-vowel-consonant-score](https://github.com/Atul-khadse/leetCode/tree/master/3813-vowel-consonant-score) |
 ## Quickselect
 |  |
