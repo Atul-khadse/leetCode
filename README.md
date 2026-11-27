@@ -176,6 +176,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Atul-khadse/leetCode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Atul-khadse/leetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Atul-khadse/leetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/Atul-khadse/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Atul-khadse/leetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Atul-khadse/leetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Atul-khadse/leetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -247,6 +248,7 @@
 | [0139-word-break](https://github.com/Atul-khadse/leetCode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Atul-khadse/leetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Atul-khadse/leetCode/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Atul-khadse/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Atul-khadse/leetCode/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Atul-khadse/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0818-race-car](https://github.com/Atul-khadse/leetCode/tree/master/0818-race-car) |
@@ -356,6 +358,7 @@
 | [0011-container-with-most-water](https://github.com/Atul-khadse/leetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Atul-khadse/leetCode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/Atul-khadse/leetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Atul-khadse/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Atul-khadse/leetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Atul-khadse/leetCode/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Atul-khadse/leetCode/tree/master/0678-valid-parenthesis-string) |
@@ -414,6 +417,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Atul-khadse/leetCode/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/Atul-khadse/leetCode/tree/master/0295-find-median-from-data-stream) |
+| [0435-non-overlapping-intervals](https://github.com/Atul-khadse/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Atul-khadse/leetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Atul-khadse/leetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Atul-khadse/leetCode/tree/master/0594-longest-harmonious-subsequence) |
