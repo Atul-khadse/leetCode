@@ -230,6 +230,7 @@
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Atul-khadse/leetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Atul-khadse/leetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3934-smallest-unique-subarray](https://github.com/Atul-khadse/leetCode/tree/master/3934-smallest-unique-subarray) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Atul-khadse/leetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Atul-khadse/leetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Atul-khadse/leetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Dynamic Programming
@@ -395,6 +396,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Atul-khadse/leetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Atul-khadse/leetCode/tree/master/1768-merge-strings-alternately) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Atul-khadse/leetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Atul-khadse/leetCode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
 | ------- |
